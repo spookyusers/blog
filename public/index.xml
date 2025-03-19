@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Mar 2025 10:10:53 -0400</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Blog</title>
+      <link>https://example.org/posts/hello-blog/</link>
+      <pubDate>Wed, 19 Mar 2025 10:10:53 -0400</pubDate>
+      <guid>https://example.org/posts/hello-blog/</guid>
+      <description>For now this is intended to be my second brain. Bring together the scattered notes from notebooks, post-its, book margins, the cloud, local files, wherever. Also kind of an open journal. Things that, while they may be personal, like most things I don’t mind them being publicly visible.&#xA;So a little bit of a status brain dump to begin. We’ve got a few things going on actively or tumbling around the back of the brain.</description>
+    </item>
+  </channel>
+</rss>
