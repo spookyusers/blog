@@ -1,5 +1,5 @@
 +++
-title = 'Pop Inversion Laser'
+title = 'Population Inversion, Lasers, Photons, Electrons and a Lame Party.'
 date = 2025-03-19T11:09:29-04:00
 draft = false
 +++
