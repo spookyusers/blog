@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'archie'
 publishDir = "docs"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+

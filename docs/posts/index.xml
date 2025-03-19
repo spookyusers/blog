@@ -6,8 +6,22 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Mar 2025 10:10:53 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 11:09:29 -0400</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pop Inversion Laser</title>
+      <link>https://example.org/posts/pop-inversion-lasers/</link>
+      <pubDate>Wed, 19 Mar 2025 11:09:29 -0400</pubDate>
+      <guid>https://example.org/posts/pop-inversion-lasers/</guid>
+      <description>Population inversion has been a tricky concept for me. How can a photon, crashing into an electron, something that usually adds energy, actually cause the electron to lose energy?&#xA;This isn’t meant to be a rigorous treatment of this topic, but rather a helpful way to think about this intuitively so that it doesn’t feel so wrong.&#xA;In short, I think of this phenomenon by personifying the objects in question.</description>
+    </item>
+    <item>
+      <title>Interference Experiment</title>
+      <link>https://example.org/posts/interference-experiment/</link>
+      <pubDate>Wed, 19 Mar 2025 10:37:30 -0400</pubDate>
+      <guid>https://example.org/posts/interference-experiment/</guid>
+      <description>Finally! I’ve been trying to get this experiment to work for a while but I the signal was always too weak. In class with Dr. Podzorov, we learned about op-amps so I figured I’d give it a shot to finally get this experiment working. It worked!&#xA;In David and Shanni Prutchi’s book Exploring Quantum Physics Through Hands-On Projects, one of the first experiments they describe is a way to automatically scan the interference pattern produced by something like a laser shining through a double-slit.</description>
+    </item>
     <item>
       <title>Hello Blog</title>
       <link>https://example.org/posts/hello-blog/</link>
