@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Kym Derriman'
 theme = 'archie'
 publishDir = "docs"
+[params]
+  description = "My second brain – lab notes, experiments, and projects."
+  author = "Kym Derriman"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
