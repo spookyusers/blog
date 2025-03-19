@@ -1,5 +1,5 @@
 +++
-title = 'Interference Experiment'
+title = 'Success! Automatic Scanning of Interference Patterns.'
 date = 2025-03-19T10:37:30-04:00
 draft = false
 +++
