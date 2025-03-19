@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://spookyusers.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Kym Derriman'
 theme = 'archie'
 publishDir = "docs"
 [markup]
