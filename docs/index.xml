@@ -6,8 +6,15 @@
     <description>Recent content on Kym Derriman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Mar 2025 11:09:29 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 13:03:24 -0400</lastBuildDate>
     <atom:link href="https://kymderriman.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easy Website</title>
+      <link>https://kymderriman.com/posts/easy-website/</link>
+      <pubDate>Sat, 22 Mar 2025 13:03:24 -0400</pubDate>
+      <guid>https://kymderriman.com/posts/easy-website/</guid>
+      <description>Wow, using WordPress was supposed to be easy. In my opinion, definitely the opposite. What a pain. Redid the whole thing using Hugo. Much easier. The main thing is you feel so much more in control and you don&amp;rsquo;t have to dance through a million bells and whistles that you don&amp;rsquo;t need.</description>
+    </item>
     <item>
       <title>Population Inversion, Lasers, Photons, Electrons and a Lame Party.</title>
       <link>https://kymderriman.com/posts/pop-inversion-lasers/</link>
