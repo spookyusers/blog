@@ -6,8 +6,15 @@
     <description>Recent content on Kym Derriman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Mar 2025 13:03:24 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 18:46:34 -0400</lastBuildDate>
     <atom:link href="https://kymderriman.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Op Amp Battery Supply</title>
+      <link>https://kymderriman.com/posts/op-amp-battery-supply/</link>
+      <pubDate>Fri, 28 Mar 2025 18:46:34 -0400</pubDate>
+      <guid>https://kymderriman.com/posts/op-amp-battery-supply/</guid>
+      <description>Here&amp;rsquo;s a quick little picture of how to power a 741 op-amp with two 9V batteries. Just for reference. Included is the trim pot for offset null. This setup connects the batteries in series and the positive and negative rails are connected outside of the frame. You can see that the batteries create a virtual ground where they connect and this serves as the circuit&amp;rsquo;s ground, while the blue rail serves as ~ -9V and the red rail as ~ +9V.</description>
+    </item>
     <item>
       <title>Easy Website</title>
       <link>https://kymderriman.com/posts/easy-website/</link>
